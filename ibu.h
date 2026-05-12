@@ -4,3 +4,4 @@
 #include <vector>
 
 class ibu {
+public:
